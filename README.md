@@ -23,11 +23,11 @@
 
 ### OBSERVAÇÃO
 
-**O app foi clonado do perfil fo Angular no GitHub para estudo dos testes E2E, onde não foi efetuado nenhuma implentação de código, mas somente dos testes.**
+**O app foi clonado do perfil do Angular no GitHub para estudo dos testes E2E, onde não foi efetuado nenhuma implentação de código, mas somente dos testes.**
 App: Realworld App Example
 Link GitHub: https://github.com/gothinkster/angular-realworld-example-app
 
-**As informações do app estão descritar no arquivo READM2.md**
+**As informações do app estão descritas no arquivo READM2.md**
 
 ### Autor
 
